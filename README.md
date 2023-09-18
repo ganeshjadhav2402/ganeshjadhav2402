@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="center">Hello 👋 I'm Ganesh Jadhav</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A developer from India</h3>
 
 - 👨🏻‍💻 I’m currently working on **Java Language**
 
