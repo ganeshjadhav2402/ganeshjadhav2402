@@ -3,9 +3,9 @@
 <h1 align="center">Hello 👋 I'm Ganesh Jadhav</h1>
 <h3 align="center">A developer from India</h3>
 
-- 👨🏻‍💻 I’m currently working on **Java Language**
+- 👨🏻‍💻 I’m currently working on **Web Development, Data Base Managae**
 
-- 🌱 I’m currently learning **Java, UX/UI Design**
+- 🌱 I’m currently learning **Java, C++, UX/UI Design**
 
 - 📫 How to reach me **ganeshsj2410@gmail.com**
 
