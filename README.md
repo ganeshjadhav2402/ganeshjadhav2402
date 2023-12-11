@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋 I'm Ganesh Jadhav</h1>
 <h3 align="center">A developer from India</h3>
 
-- 👨🏻‍💻 I’m currently working on **Web Development, Data Base Managae**
+- 👨🏻‍💻 I’m currently working on **Web Development, DSA Learn&Programming**
 
 - 🌱 I’m currently learning **Java, C++, UX/UI Design**
 
