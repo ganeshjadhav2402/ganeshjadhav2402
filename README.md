@@ -18,7 +18,7 @@
     <img align="left" style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" alt="_.ganeshh24._" height="50" width="50" />
   </a>&nbsp;
   <a href="https://twitter.com/animindia242002" target="_blank">
-    <img align="" style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.png" alt="animindia242002" height="50" width="50" />
+    <img align="left" style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.png" alt="animindia242002" height="50" width="50" />
   </a>
 </p>
 
