@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ganesh-jadhav-951213225" target="blank">
-    <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="ganesh-jadhav-951213225" height="30" width="40" />   </a>
+    <img align="center" src="[https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png](https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg)" alt="ganesh-jadhav-951213225" height="30" width="40" />   </a>
   <a href="https://www.instagram.com/_.ganeshh24._?igsh=MWszcnNzZDd0NnQyag==" target="blank">
     <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="_.gsj_24._" height="30" width="40" />
   </a>
