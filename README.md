@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ganeshsj2410@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📱Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ganesh-jadhav-951213225" target="_blank">
     <img align="left" style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="ganesh-jadhav-951213225" height="50" width="50" />  
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">🛠Languages and Tools:</h3>
+<h3 align="left">🛠Languages and Tools:</h3>
   <div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
