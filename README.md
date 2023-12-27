@@ -12,12 +12,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ganesh-jadhav-951213225" target="blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="ganesh-jadhav-951213225" height="30" width="40" />   </a>
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="ganesh-jadhav-951213225" height="50" width="40" />   </a>
   <a href="https://www.instagram.com/_.ganeshh24._?igsh=MWszcnNzZDd0NnQyag==" target="blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" alt="_.gsj_24._" height="30" width="40" />
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" alt="_.gsj_24._" height="50" width="40" />
   </a>
   <a href="https://twitter.com/animindia242002" target="blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.png" alt="animindia242002" height="30" width="40" />
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-color-icon.png" alt="animindia242002" height="50" width="40" />
   </a>
 </p>
 
