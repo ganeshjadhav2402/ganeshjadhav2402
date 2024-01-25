@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 I’m currently working on **Web Development, DSA Learn&Programming**
 
-- 🌱 I’m currently learning **Java, C++, UX/UI Design**
+- 🌱 I’m currently learning **Java, C++, WebDev**
 
 - 📫 How to reach me **ganeshsj2410@gmail.com**
 
