@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Java, C++, WebDev**
 
+- 👯 I’m looking to collaborate on projects related to full stack
+
 - 📫 How to reach me **ganeshsj2410@gmail.com**
 
 <h3 align="left">📱Connect with me:</h3>
