@@ -42,7 +42,7 @@
 
 <div>&nbsp;
 <p>
-  <img align="left" height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshjadhav2402&theme=dark&layout=compact" alt="ganesh" />&nbsp; &nbsp;
+  <img align="left" height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshjadhav2402&langs_count=12&theme=dark&layout=compact" alt="ganesh" />&nbsp; &nbsp;
    <img align="left" height=220 src="https://github-readme-stats.vercel.app/api?username=ganeshjadhav2402&show_icons=true&theme=dark&layout=compact&card_width=200" alt="ganesh" />
 </p>&nbsp;
 
