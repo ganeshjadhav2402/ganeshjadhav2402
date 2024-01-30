@@ -48,8 +48,9 @@
 
 <p>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshjadhav2402&layout=compact&theme=dark" alt="ganesh" /> -->
-  <a href="https://github.com/anselal/anselal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshjadhav2402&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/ username=ganeshjadhav2402&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
 </a>
 </p>
 &nbsp;
