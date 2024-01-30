@@ -47,7 +47,10 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshjadhav2402&layout=compact&theme=dark" alt="ganesh" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshjadhav2402&layout=compact&theme=dark" alt="ganesh" /> -->
+  <a href="https://github.com/anselal/anselal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshjadhav2402&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
+</a>
 </p>
 &nbsp;
 <p>
